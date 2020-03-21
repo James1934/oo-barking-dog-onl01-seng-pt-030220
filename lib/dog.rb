@@ -8,3 +8,4 @@ fido.name
 
 fido.bark
 puts "woof!"
+end
