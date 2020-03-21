@@ -1,10 +1,10 @@
 # Your code goes here!
 
 class Dog
-bart = Dog.new
-bart.name = "bart"
+fido = Dog.new
+fido.name = "Fido"
 
-bart.name
+fido.name
 
-bart.bark
+fido.bark
 puts woof!
